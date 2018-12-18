@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./img/logo_polito.svg" alt="polito logo" height="250" width="250" />
+	<img src="img/logo_polito.svg" alt="polito logo" height="250" width="250" />
 </div>
 
 <div align="center">
@@ -48,8 +48,8 @@
 	The main languages and environments used to develop the application are:
 		<ul>
 			<li>Database: MySQL relational database</li>
-			<li>Scrapers: JavaScript scripts executed on the run-time environment Node.js with the npm package <a href="">“Puppeteer”</a> provided by Google</li>
-			<li>Database scripts: JavaScript scripts executed on the run-time environment Node.js with the npm package <a href="https://www.npmjs.com/package/mysql">“mysql”</a></li>
+			<li>Scrapers: JavaScript scripts executed on the run-time environment Node.js with the npm package <a href="https://developers.google.com/web/tools/puppeteer/">Puppeteer</a> provided by Google</li>
+			<li>Database scripts: JavaScript scripts executed on the run-time environment Node.js with the npm package <a href="https://www.npmjs.com/package/mysql">mysql</a></li>
 			<li>Forecasts algorithm: C++</li>
 			<li>Evolutionary algorithm: <a href="http://ugp3.sourceforge.net/">MicroGP evolutionary algorithm</a>, C++, bash scripts</li>
 		</ul>
