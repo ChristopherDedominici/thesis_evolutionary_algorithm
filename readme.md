@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="img/logo_polito.svg" alt="polito logo" height="250" width="250" />
+	<img src="img/logo_polito.png" alt="polito logo" height="250" width="250" />
 </div>
 
 <div align="center">
